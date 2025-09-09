@@ -1,5 +1,7 @@
 # **RealtyNova - Predictive Analytics for Real Estate Valuation**
 
+![c7dbfec0-e3f7-4948-8478-c9a4ee0f83fc](https://github.com/user-attachments/assets/f9d4c5d3-24df-4907-a96a-481e38b80299)
+
 ## **Objective**
 
 The goal of this project is to **predict residential property prices** using machine learning techniques, while identifying the most influential features that determine property value. Additionally, the project demonstrates how to **visualize predictions and insights through an interactive dashboard**, making the results actionable for real estate analytics or decision-making.
