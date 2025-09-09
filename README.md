@@ -1,4 +1,4 @@
-# **Property Value Prediction — Project Summary**
+# **RealtyNova - Predictive Analytics for Real Estate Valuation**
 
 ## **Objective**
 
